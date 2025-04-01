@@ -2,7 +2,7 @@
 
 使用
 
-安装pywin32工具包
+安装keyboard pywin32工具包
 
 ```pip install keyboard pywin32```
 
