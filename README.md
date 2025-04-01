@@ -4,7 +4,7 @@
 
 安装pywin32工具包
 
-```pip install pywin32```
+```pip install keyboard pywin32```
 
 1快捷方式到桌面运行
 
